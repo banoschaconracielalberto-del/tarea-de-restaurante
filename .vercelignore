@@ -1,0 +1,3 @@
+# Ignore legacy build output and local copies
+build/
+node_modules - copia/
